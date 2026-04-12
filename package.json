@@ -1,0 +1,11 @@
+{
+  "name": "strava-obsidian-ride-log",
+  "version": "1.0.0",
+  "description": "Strava cycling log → Obsidian Markdown note generator",
+  "scripts": {
+    "start": "bun run strava.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
